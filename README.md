@@ -61,3 +61,10 @@ This analysis will be performed using the following Python libraries:
 - **numpy** for numerical operations.
 - **matplotlib** or **seaborn** for data visualization.
 
+## Results and Insights
+
+- **Lowest Average Sleep Duration**: Sales Representative
+- **Lowest Average Sleep Quality**: Sales Representative
+- **Same Occupation for Both?**: True
+- **BMI and Insomnia Ratios**: {'Normal': 0.04, 'Obese': 0.4, 'Overweight': 0.43}
+
