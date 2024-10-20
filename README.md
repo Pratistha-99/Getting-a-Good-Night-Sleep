@@ -59,7 +59,7 @@ This analysis will be performed using the following Python libraries:
 
 - **pandas** for data manipulation and analysis.
 - **numpy** for numerical operations.
-- **matplotlib** or **seaborn** for data visualization.
+- **matplotlib** for data visualization.
 
 ## Results and Insights
 
